@@ -1,0 +1,8 @@
+# Add files to the repository
+git add .
+
+# Commit the changes
+git commit -m "Initial commit for design assessment"
+
+# Push the files to GitHub
+git push origin main
