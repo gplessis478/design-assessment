@@ -1,0 +1,5 @@
+AssessmentProject/
+├── images/          (for all provided image files)
+├── css/             (for the CSS file)
+├── index.html       (main HTML file)
+├── README.txt       (optional file with notes/instructions)
